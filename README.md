@@ -1,0 +1,4 @@
+user-rpmbuild
+=============
+
+rpmbuild sample
